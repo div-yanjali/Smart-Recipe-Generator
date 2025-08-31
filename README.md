@@ -10,8 +10,8 @@
 Find delicious recipes using the ingredients you already have.  
 Search by name, cuisine, tags, filter by diet & time, drop a photo of ingredients for recognition, and even generate a complete recipe with AI.
 
-## Live WEBSITE - https://smart-recipe-generator-3qli.vercel.app/
-## Github Link - https://github.com/UDAY1810/smart-recipe-generator
+# Live WEBSITE - https://smart-recipe-generator-3qli.vercel.app/
+# Github Link - https://github.com/div-yanjali/Smart-Recipe-Generator.git
 
 ---
 
@@ -122,9 +122,3 @@ npm run dev
 📦 Deployment
 
 Deployed on Vercel → https://smart-recipe-generator-3qli.vercel.app/
-
-
-📜 License
-
-Licensed under the MIT License.
-Made with ❤️ by Uday Dubey
