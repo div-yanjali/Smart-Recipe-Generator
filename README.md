@@ -103,7 +103,7 @@ Search by name, cuisine, tags, filter by diet & time, drop a photo of ingredient
 
 ```bash
 ## 1️⃣ Clone the repo
-git clone https://github.com/UDAY1810/smart-recipe-generator.git
+git clone https:(https://github.com/div-yanjali/Smart-Recipe-Generator.git)
 cd smart-recipe-generator
 
 ## 2️⃣ Install dependencies
