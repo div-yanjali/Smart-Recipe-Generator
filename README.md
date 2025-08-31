@@ -33,9 +33,9 @@ Search by name, cuisine, tags, filter by diet & time, drop a photo of ingredient
 ### 4. Recipe Database
 - ✅ Predefined recipe database with a variety of cuisines.
 - ✅ Each recipe includes:
-  - Ingredients  
-  - Cooking steps  
-  - Nutritional information  
+- ✅ Ingredients  
+- ✅ Cooking steps  
+- ✅ Nutritional information  
 
 ### 5. User Feedback
 - ✅ Users can **rate and save** their favorite recipes (favorites stored locally).
@@ -93,8 +93,10 @@ Search by name, cuisine, tags, filter by diet & time, drop a photo of ingredient
 ---
 
 ## 📸 Demo
-![Smart Recipe Generator Screenshot](./public/demo.png)
-![Smart Recipe Generator Screenshot](./public/demo1.png)
+![Smart Recipe Generator Screenshot](<img width="1870" height="870" alt="Screenshot 2025-08-31 213250" src="https://github.com/user-attachments/assets/9570e56b-af18-4343-b8d4-4d182a1c344a" />
+)
+![Smart Recipe Generator Screenshot](<img width="1828" height="894" alt="Screenshot 2025-08-31 213329" src="https://github.com/user-attachments/assets/9dc0452f-f526-4883-a80b-db9c8e8acac0" />
+)
 ![Smart Recipe Generator Screenshot](./public/demo2.png)
 
 ---
